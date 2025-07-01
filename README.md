@@ -1,2 +1,2 @@
-# recursos
-repositorio para guardar recursos que son usados por herramientas.
+# Recursos
+Repositorio para guardar recursos que son usados por herramientas.
